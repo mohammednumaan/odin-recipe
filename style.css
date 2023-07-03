@@ -1,9 +1,15 @@
 .title{
-    background-color: black;
+    background-color: #27374D;
     color: white;
-    padding-left: 5px;
+    
     text-align: center;
     font-size: 70px;
+}
+.body{
+    background-color: #526D82;
+}
+.bodywrap{
+    background-color: #526D82;
 }
 .centre0{
     display: block;
@@ -28,7 +34,7 @@
 }
 
 .wrap{
-    background-color: black;
+    background-color:  #27374D;
     color: white;
     padding-bottom: 5px;
     text-align: center;
@@ -36,7 +42,7 @@
 
 }
  .wing{
-    background-color: black;
+    background-color:  #27374D;
     color: white;
     padding-left: 5px;
     text-align: center;
@@ -45,25 +51,39 @@
  .wing01{
     text-align: center;
     list-style-position: inside;
+    color: white;
 
  }
  .wing02{
     text-align: center;
     list-style-position: inside;
+    color: white;
  }
 #W1{
-    background-color: black;
+    background-color:  #27374D;
     color: white;
-    border: 2px solid black;
+    border: 2px solid  #27374D;
     margin: auto;
     text-align: center;
     width: 150px;
  }
  #W2{
-    background-color: black;
+    background-color:  #27374D;
     color: white;
-    border: 2px solid black;
+    border: 2px solid  #27374D;
     margin: auto;
     text-align: center;
     width: 150px;
+ }
+ .wdir{
+    background-color:  #27374D;
+    color: white;
+    padding-left: 5px;
+    text-align: center;
+ }
+ .wdir01{
+    text-align: center;
+    list-style-position: inside;
+    color: white;
+
  }
