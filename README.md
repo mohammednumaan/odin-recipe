@@ -32,7 +32,10 @@ PROJECT TAKEAWAYS :
 1. Learnt how to structure a HTML document.
 2. Learnt how to apply various HTML tags and elements in HTML webpages.
 3. Learnt how to link and use images in a HTML webpage.
-4. Lastly, learnt how to use lists(ordered and unordered).
+4. Learnt how to use lists(ordered and unordered).
+5. Learnt how to style a HTML webpage using CSS.
+6. Learnt how to apply basic and key concepts of CSS.
+7. Lastly, learnt hhow to apply the fundamental concept of The Box Model.
 
 
 <> NOTE : Use of Nested Lists and Image as a Link, Descendant Combinator and inline-blocck has not been used in this specific project.
