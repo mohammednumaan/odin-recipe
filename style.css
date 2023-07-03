@@ -8,6 +8,10 @@
 .body{
     background-color: #526D82;
 }
+.body2{
+    background-color: #526D82;
+}
+
 .bodywrap{
     background-color: #526D82;
 }
@@ -26,6 +30,7 @@
 .list{
     text-align: center;
     font-size: 20px;
+    color: white;
     
 }
 #recipe{
@@ -82,6 +87,46 @@
     text-align: center;
  }
  .wdir01{
+    text-align: center;
+    list-style-position: inside;
+    color: white;
+
+ }
+
+ .bread{
+    background-color:  #27374D;
+    color: white;
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 70px;
+ }
+ .centre02{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
+
+ .bing{
+    background-color:  #27374D;
+    color: white;
+    padding-left: 5px;
+    text-align: center;
+ }
+ .bing1{
+    text-align: center;
+    list-style-position: inside;
+    color: white;
+
+ }
+ .bdir{
+    background-color:  #27374D;
+    color: white;
+    padding-left: 5px;
+    text-align: center;
+
+ }
+ .bdir2{
     text-align: center;
     list-style-position: inside;
     color: white;
